@@ -1,0 +1,321 @@
+{
+    "artists": {
+        "href": "https://api.spotify.com/v1/search?query=red+hot&type=artist&market=US&offset=0&limit=10",
+        "items": [{
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 11667877
+                },
+                "genres": [
+                    "alternative rock",
+                    "funk metal",
+                    "funk rock",
+                    "permanent wave",
+                    "post-grunge",
+                    "rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+                "id": "0L8ExT028jH3ddEcZwqJJ5",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/9527e700b5c80aa67350d5de0da10a0aa754fcb1",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/a7af6412632c81ebfb5e39495aa3dacc564cb22b",
+                        "width": 160
+                    }
+                ],
+                "name": "Red Hot Chili Peppers",
+                "popularity": 84,
+                "type": "artist",
+                "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eFa5ZzDWxhQK2WKIBF6AF"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 50227
+                },
+                "genres": [
+                    "bagpipe",
+                    "celtic rock"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7eFa5ZzDWxhQK2WKIBF6AF",
+                "id": "7eFa5ZzDWxhQK2WKIBF6AF",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8694d2e02a434e0240f3088ab9ddf0505cc70ae7",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/057020d3979d1773d0157ec52f1a32fd0523dbdd",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/502bec88f3610825f71cd9806e9f32ff2422d9d8",
+                        "width": 160
+                    }
+                ],
+                "name": "Red Hot Chilli Pipers",
+                "popularity": 43,
+                "type": "artist",
+                "uri": "spotify:artist:7eFa5ZzDWxhQK2WKIBF6AF"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 4157
+                },
+                "genres": [
+                    "swing",
+                    "traditional swing"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4pMt1AgzE3YyjE784QVkr2",
+                "id": "4pMt1AgzE3YyjE784QVkr2",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736e4bb8b1cdb5484efd513e6e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026e4bb8b1cdb5484efd513e6e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516e4bb8b1cdb5484efd513e6e",
+                        "width": 64
+                    }
+                ],
+                "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+                "popularity": 28,
+                "type": "artist",
+                "uri": "spotify:artist:4pMt1AgzE3YyjE784QVkr2"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 278
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/4gFtwOVP0ozdW5asXUidtk",
+                "id": "4gFtwOVP0ozdW5asXUidtk",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735515010ed707a0130fb2da3a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025515010ed707a0130fb2da3a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515515010ed707a0130fb2da3a",
+                        "width": 64
+                    }
+                ],
+                "name": "Red Hot Viper",
+                "popularity": 28,
+                "type": "artist",
+                "uri": "spotify:artist:4gFtwOVP0ozdW5asXUidtk"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3811
+                },
+                "genres": [
+                    "big band",
+                    "ragtime"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5GHLXPkq5y7bu1BlLQ5hvO",
+                "id": "5GHLXPkq5y7bu1BlLQ5hvO",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e9270fc271ca7539605e45f8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e9270fc271ca7539605e45f8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e9270fc271ca7539605e45f8",
+                        "width": 64
+                    }
+                ],
+                "name": "Jelly Roll Morton & His Red Hot Peppers",
+                "popularity": 20,
+                "type": "artist",
+                "uri": "spotify:artist:5GHLXPkq5y7bu1BlLQ5hvO"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5h2iINTOvhghVcpIzrztPP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 323
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/5h2iINTOvhghVcpIzrztPP",
+                "id": "5h2iINTOvhghVcpIzrztPP",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735a14de95dbc0f1adac73d535",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025a14de95dbc0f1adac73d535",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515a14de95dbc0f1adac73d535",
+                        "width": 64
+                    }
+                ],
+                "name": "Red Hot Rebellion",
+                "popularity": 12,
+                "type": "artist",
+                "uri": "spotify:artist:5h2iINTOvhghVcpIzrztPP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7zFtG0mQ3v2r3HbI9YXd5t"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 178
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/7zFtG0mQ3v2r3HbI9YXd5t",
+                "id": "7zFtG0mQ3v2r3HbI9YXd5t",
+                "images": [],
+                "name": "Red Hot Chilli Pipers and Jack White",
+                "popularity": 16,
+                "type": "artist",
+                "uri": "spotify:artist:7zFtG0mQ3v2r3HbI9YXd5t"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JhTRJpLE2QdYWalH5tN04"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 317
+                },
+                "genres": [
+                    "deep east coast hip hop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2JhTRJpLE2QdYWalH5tN04",
+                "id": "2JhTRJpLE2QdYWalH5tN04",
+                "images": [],
+                "name": "Red Hot Lover Tone",
+                "popularity": 10,
+                "type": "artist",
+                "uri": "spotify:artist:2JhTRJpLE2QdYWalH5tN04"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0vqVlrkBC0YtAj7a58zDT6"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 107
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/0vqVlrkBC0YtAj7a58zDT6",
+                "id": "0vqVlrkBC0YtAj7a58zDT6",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735e04f1467bd65a553551bba7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025e04f1467bd65a553551bba7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515e04f1467bd65a553551bba7",
+                        "width": 64
+                    }
+                ],
+                "name": "Red Hot Flames",
+                "popularity": 3,
+                "type": "artist",
+                "uri": "spotify:artist:0vqVlrkBC0YtAj7a58zDT6"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4EiPFgA46SMqLtTSH2xopt"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1286
+                },
+                "genres": [
+                    "swedish rockabilly"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4EiPFgA46SMqLtTSH2xopt",
+                "id": "4EiPFgA46SMqLtTSH2xopt",
+                "images": [{
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733c1a90d9f1cc8bba2801047e",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023c1a90d9f1cc8bba2801047e",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513c1a90d9f1cc8bba2801047e",
+                        "width": 64
+                    }
+                ],
+                "name": "Red Hot Max",
+                "popularity": 20,
+                "type": "artist",
+                "uri": "spotify:artist:4EiPFgA46SMqLtTSH2xopt"
+            }
+        ],
+        "limit": 10,
+        "next": "https://api.spotify.com/v1/search?query=red+hot&type=artist&market=US&offset=10&limit=10",
+        "offset": 0,
+        "previous": null,
+        "total": 106
+    }
+}

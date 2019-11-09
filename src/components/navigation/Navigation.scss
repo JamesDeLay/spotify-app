@@ -1,0 +1,9 @@
+@import "../../styles/colors.scss";
+
+header {
+    position: fixed;
+    top: 0;
+    height: 8%;
+    background: rgba($blue, .3);
+    width: 100%;
+}
